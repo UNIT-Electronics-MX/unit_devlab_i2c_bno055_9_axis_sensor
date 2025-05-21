@@ -8,7 +8,7 @@
 # **Pinout**
 
 <div align="center">
-  <a href="#"><img src="hardware/resources/touchdot.png" width="450px" alt="Pinout"></a>
+  <a href="#"><img src="resources/bno055_pinout.jpg" width="450px" alt="Pinout"></a>
   <p>Pinout</p>
 </div>
 
@@ -41,15 +41,6 @@
 
 ## **DIP-Switch: Interface & Address Selection**
  
-
----
-
-## Connection Examples:
-
-### A. I²C Mode (address 0x28)
-
-
-### B. UART Mode (115 200 bps)
 
 ---
 

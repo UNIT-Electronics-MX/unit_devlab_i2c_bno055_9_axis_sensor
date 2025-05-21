@@ -1,7 +1,7 @@
-# BNO055 Module
+# **BNO055 Module**
 
 ## Introduction
-The **BNO055** is a 9-axis absolute orientation sensor from Bosch (accelerometer + gyroscope + magnetometer) with on-board sensor fusion. This breakout makes it easy to integrate, offering:
+The **BNO055** is a 9-axis absolute orientation sensor from Bosch (`accelerometer` + `gyroscope` + `magnetometer`) with on-board sensor fusion. This breakout makes it easy to integrate, offering:
 - A Qwiic-compatible connector for **I²C** at up to 400 kHz  
 - Standard 2.54 mm header breakouts  
 - A DIP-switch to select **I²C** or **UART** mode  
@@ -15,18 +15,18 @@ The **BNO055** is a 9-axis absolute orientation sensor from Bosch (accelerometer
 
 
 ## Key Features
-| Feature             | Details                                                 |
-|---------------------|---------------------------------------------------------|
-| 9-axis fusion       | Accelerometer, gyro, magnetometer with internal fusion algorithms |
-| Output formats      | Euler angles, quaternions, linear acceleration, raw sensor data  |
-| Accelerometer range | ±2 g … ±16 g                                            |
-| Gyroscope range     | ±125 °/s … ±2000 °/s                                     |
-| Magnetometer range  | ±1300 µT                                               |
-| I²C interface       | Up to 400 kHz                                          |
-| UART interface      | Up to 115200 bps                                       |
-| Qwiic connector     | 4-pin connector (3.3 V)                                  |
-| SWD pads            | For on-board debugging/programming                     |
-| DIP-switch          | For bus mode and address selection                     |
+| Feature                 | Details                                                           |
+|-------------------------|-------------------------------------------------------------------|
+| **9-axis fusion**       | Accelerometer, gyro, magnetometer with internal fusion algorithms |
+| **Output formats**      | Euler angles, quaternions, linear acceleration, raw sensor data   |
+| **Accelerometer range** | ±2 g … ±16 g                                                      |
+| **Gyroscope range**     | ±125 °/s … ±2000 °/s                                              |
+| **Magnetometer range**  | ±1300 µT                                                          |
+| **I²C interface**       | Up to 400 kHz                                                     |
+| **UART interface**      | Up to 115200 bps                                                  |
+| **Qwiic connector**     | 4-pin connector (3.3 V)                                           |
+| **SWD pads**            | For on-board debugging/programming                                |
+| **DIP-switch**          | For bus mode and address selection                                |
 
 
 ## Typical Applications
