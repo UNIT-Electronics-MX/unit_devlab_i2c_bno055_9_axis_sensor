@@ -47,6 +47,27 @@
 # **Dimensions**
 
 <div align="center">
-  <a href="#"><img src="hardware/resources/touchdot.png" width="450px" alt="Dimensions"></a>
+  <a href="#"><img src="./resources/unit_dimension_v_0_0_1_ue0092_BNO055.png" width="450px" alt="Dimensions"></a>
   <p>Dimensions</p>
 </div>
+
+---
+
+# **Topology**
+
+<div align="center">
+  <a href="#"><img src="./resources/unit_topology_v_0_0_1_ue0092_BNO055.png" width="450px" alt="Topology"></a>
+  <p>Topology</p>
+</div>
+
+| Ref.  | Description                                                                 |
+|-------|-----------------------------------------------------------------------------|
+| IC1   | BNO055                                                                      |
+| U1    | AP2112K 3.3V LDO voltage regulator                                          |
+| L1    | Power-on LED                                                                |
+| SW1   | Dip Switch for mode selection                                               |
+| SB1   | Solder bridge to select I²C address                                         |
+| J1    | Low-power I²C QWIIC JST connector                                           |
+| JP1   | 2.54 mm pin header                                                          |
+| JP2   | 2.54 mm pin header                                                          |
+| JP3   | 2.54 mm pin header                                                          |
