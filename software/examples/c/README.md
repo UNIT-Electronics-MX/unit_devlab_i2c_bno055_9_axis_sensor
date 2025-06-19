@@ -48,7 +48,7 @@ if (!bno.begin()) {
 ```
 Checks if the sensor is detected. If not, halts execution.
 
-# Sensor Data Collection
+## Sensor Data Collection
 
 Reads all supported vectors:
 
@@ -67,7 +67,7 @@ Also retrieves:
 
 - Calibration data via bno.getCalibration()
 
-# JSON Output
+## JSON Output
 
 ```cpp
 Serial.print("{\"orientation\":{\"x\":...}, ... }");
@@ -93,14 +93,14 @@ Generates a JSON object with the following fields:
 
 This makes it easy to parse in external applications like Processing, Python, or web dashboards.
 
-# Sampling Frequency
+## Sampling Frequency
 
 ```cpp
 const uint16_t BNO055_SAMPLERATE_DELAY_MS = 100;
 ```
 The loop runs every 100 milliseconds → 10 Hz sampling rate.
 
-# Aplications 
+## Aplications 
 
 Telemetry for robotics and drones 
 
@@ -112,7 +112,7 @@ Stability control in educational rockets
 
 Inertial navigation for autonomous vehicles 
 
-# Sample Serial Output
+## Sample Serial Output
 
 ```json
 {
