@@ -102,15 +102,15 @@ The loop runs every 100 milliseconds → 10 Hz sampling rate.
 
 ## Aplications 
 
-Telemetry for robotics and drones 
+- Telemetry for robotics and drones 
 
-Orientation tracking in AR/VR headsets 
+- Orientation tracking in AR/VR headsets 
 
-Motion sensing for prosthetics and biomechanics 
+- Motion sensing for prosthetics and biomechanics 
 
-Stability control in educational rockets 
+- Stability control in educational rockets 
 
-Inertial navigation for autonomous vehicles 
+- Inertial navigation for autonomous vehicles 
 
 ## Sample Serial Output
 
