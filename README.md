@@ -9,7 +9,7 @@ The **BNO055** is a 9-axis absolute orientation sensor from Bosch (`acceleromete
 - Boot indicator LED and pins for **RESET**, **BOOT** and **INT**  
 
 <div align="center">
-  <a href="#"><img src="hardware/resources/product.png" width="450px" alt="BNO055"></a>
+  <a href="#"><img src="hardware/resources/unit_top_v_0_0_1_ue0092_BNO055.png" width="450px" alt="BNO055"></a>
   <p>UNIT BNO055 Module</p>
 </div>
 
