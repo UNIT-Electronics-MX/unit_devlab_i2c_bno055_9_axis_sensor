@@ -1,26 +1,32 @@
 # **Schematic**
 
 <div align="center">
-  <a href="#"><img src="resources/Schematics_icon.jpg" width="450px" alt="Schematic"></a>
+  <a href="#"><img src="resources/img/Schematics_icon.jpg" width="450px" alt="Schematic"></a>
   <p>Schematic</p>
 </div>
 
 # **Pinout**
 
 <div align="center">
-  <a href="#"><img src="resources/bno055_pinout.jpg" width="450px" alt="Pinout"></a>
+  <a href="#"><img src="resources/unit_pinout_v_0_0_1_ue0092_bno055_en.jpg" width="450px" alt="Pinout"></a>
   <p>Pinout</p>
 </div>
 
 ### Qwiic Connector (SparkFun)
+
+<div align="center">
+
 | Pin | Signal  |
 |:---:|:--------|
 | 1   | **VCC** (3.3 V) |
 | 2   | **GND**         |
 | 3   | **SDA**         |
 | 4   | **SCL**         |
+</div>
 
 > **Note:** Qwiic operates at 3.3 V only.
+
+<div align="center">
 
 | Pin       | Signal               | Description                                          |
 |:---------:|:--------------------:|:-----------------------------------------------------|
@@ -36,6 +42,7 @@
 | SDA ↔ TX  | I²C SDA or UART TX   | Depends on PS1/PS0 setting                           |
 | SWCLK     | SWD Clock            | Debug/program via Serial Wire Debug                  |
 | SWDIO     | SWD Data             | Debug/program via Serial Wire Debug                  |
+</div>
 
 ---
 
@@ -47,6 +54,6 @@
 # **Dimensions**
 
 <div align="center">
-  <a href="#"><img src="hardware/resources/touchdot.png" width="450px" alt="Dimensions"></a>
+  <a href="#"><img src="resources/unit_dimension_v_0_0_1_ue0092_BNO055.png" width="450px" alt="Dimensions"></a>
   <p>Dimensions</p>
 </div>
