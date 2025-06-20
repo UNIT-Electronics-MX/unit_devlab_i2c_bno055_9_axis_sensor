@@ -54,11 +54,7 @@
 # **Dimensions**
 
 <div align="center">
-<<<<<<< HEAD
   <a href="#"><img src="resources/unit_dimension_v_0_0_1_ue0092_BNO055.png" width="450px" alt="Dimensions"></a>
-=======
-  <a href="#"><img src="./resources/unit_dimension_v_0_0_1_ue0092_BNO055.png" width="450px" alt="Dimensions"></a>
->>>>>>> feature/hardware-specs
   <p>Dimensions</p>
 </div>
 
