@@ -22,7 +22,7 @@ Edita las secciones respetando el orden, sin eliminar los encabezados.
 
 The UNIT BNO055 Module integrates a 9-axis absolute orientation sensor into a compact, ready-to-use form factor. It combines an accelerometer, gyroscope, and magnetometer with an onboard microcontroller running sensor fusion algorithms, delivering orientation data such as quaternions, Euler angles, and gravity vectors directly via serial or I²C communication.
 
-This version includes a built-in DIP switch for selecting between **I²C and UART interfaces** by configuring the BNO055's `PS0` and `PS1` pins without the need for jumpers or solder bridges.
+This version includes a built-in DIP switch for selecting between I²C and UART interfaces by configuring the BNO055's `PS0` and `PS1` pins without the need for jumpers or solder bridges.
 
 The module is ideal for robotics, drones, VR/AR, and IoT systems requiring accurate orientation tracking with minimal software overhead.
 
