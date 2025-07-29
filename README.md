@@ -14,7 +14,22 @@ The **BNO055** is a 9-axis absolute orientation sensor from Bosch (`acceleromete
 </div>
 
 
+## Additional Resources
+
+<div align="center">
+
+| Resource | Link |
+|:--------:|:----:|
+| Wiki-UNIT Electronics | [Wiki - UNIT Electronics](https://unit-electronics-mx.github.io/wiki_uelectronics/es/docs/Sensors/bno055_/) |
+| Github Repository | [Github Repository](https://github.com/UNIT-Electronics-MX/unit_bno055_module) |
+| Product Brief | [Product brief](https://github.com/UNIT-Electronics-MX/unit_bno055_module/blob/main/docs/unit_bno055_module_product_brief.pdfl) |
+
+</div>
+
+<div align="center">
+
 ## Key Features
+
 | Feature                 | Details                                                           |
 |-------------------------|-------------------------------------------------------------------|
 | **9-axis fusion**       | Accelerometer, gyro, magnetometer with internal fusion algorithms |
@@ -27,6 +42,8 @@ The **BNO055** is a 9-axis absolute orientation sensor from Bosch (`acceleromete
 | **Qwiic connector**     | 4-pin connector (3.3 V)                                           |
 | **SWD pads**            | For on-board debugging/programming                                |
 | **DIP-switch**          | For bus mode and address selection                                |
+
+</div>
 
 
 ## Typical Applications

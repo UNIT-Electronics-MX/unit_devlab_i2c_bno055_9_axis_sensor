@@ -1,7 +1,7 @@
 # **Schematic**
 
 <div align="center">
-  <a href="#"><img src="resources/img/Schematics_icon.jpg" width="450px" alt="Schematic"></a>
+  <a href="https://github.com/UNIT-Electronics-MX/unit_bno055_module/blob/main/hardware/unit_sch_v_0_0_1_ue0092_BNO055.pdf"><img src="resources/img/Schematics_icon.jpg" width="450px" alt="Schematic"></a>
   <p>Schematic</p>
 </div>
 

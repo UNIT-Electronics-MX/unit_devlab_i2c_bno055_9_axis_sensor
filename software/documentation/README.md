@@ -113,8 +113,9 @@ Works with:
 
 ## Downloads
 
-- [Schematic PDF](../hardware/unit_sch_V_0_0_1_BNO055.pdf)
-
+- [Schematic PDF](https://github.com/UNIT-Electronics-MX/unit_bno055_module/tree/main/hardware#schematic)
+- [Pinout Image](https://github.com/UNIT-Electronics-MX/unit_bno055_module/tree/main/hardware#pinout)
 ## Purchase
 
+- [GitHub Repository](https://github.com/UNIT-Electronics-MX/unit_bno055_module)
 - [Buy from UNIT Electronics](https://www.uelectronics.com)
