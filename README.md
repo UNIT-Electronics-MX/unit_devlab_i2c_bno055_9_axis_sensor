@@ -1,4 +1,4 @@
-# **BNO055 Module**
+# DevLab: I2C BNO055 9-Axis Sensor
 
 ## Introduction
 The **BNO055** is a 9-axis absolute orientation sensor from Bosch (`accelerometer` + `gyroscope` + `magnetometer`) with on-board sensor fusion. This breakout makes it easy to integrate, offering:
